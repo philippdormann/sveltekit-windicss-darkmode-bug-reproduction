@@ -1,0 +1,16 @@
+{
+    "name": "sveltekit-windi",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "svelte-kit dev",
+        "build": "svelte-kit build",
+        "start": "svelte-kit start"
+    },
+    "devDependencies": {
+        "@sveltejs/kit": "1.0.0-next.196",
+        "svelte": "3.44.1",
+        "svelte-preprocess": "^4.9.8",
+        "svelte-windicss-preprocess": "4.1.6"
+    },
+    "type": "module"
+}
